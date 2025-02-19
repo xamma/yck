@@ -12,10 +12,10 @@ Get the releases depending on your plattform and add them to your PATH.
 
 e.g.
 ```
-curl -LO https://github.com/xamma/ycks/releases/download/vx.x.x/ykc-linux-amd64
+curl -LO https://github.com/xamma/yck/releases/download/vx.x.x/yck-linux-amd64
 chmod +x yck-linux-amd64
-sudo mv yck-linux-amd64 /usr/local/bin/ykc
-ykc
+sudo mv yck-linux-amd64 /usr/local/bin/yck
+yck
 ```
 
 ## Usage
